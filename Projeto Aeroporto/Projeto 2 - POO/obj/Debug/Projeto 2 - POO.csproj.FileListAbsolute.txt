@@ -1,0 +1,6 @@
+H:\POO\Projeto 2 - POO\Projeto 2 - POO\obj\Debug\Projeto 2 - POO.csproj.AssemblyReference.cache
+H:\POO\Projeto 2 - POO\Projeto 2 - POO\obj\Debug\Projeto 2 - POO.csproj.SuggestedBindingRedirects.cache
+H:\POO\Projeto 2 - POO\Projeto 2 - POO\obj\Debug\Projeto 2 - POO.csproj.CoreCompileInputs.cache
+H:\POO\Projeto 2 - POO\Projeto 2 - POO\obj\Debug\Projeto_2___POO.Form1.resources
+H:\POO\Projeto 2 - POO\Projeto 2 - POO\obj\Debug\Projeto_2___POO.FormsVoo.resources
+H:\POO\Projeto 2 - POO\Projeto 2 - POO\obj\Debug\Projeto 2 - POO.csproj.GenerateResource.cache
